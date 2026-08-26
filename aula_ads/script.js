@@ -14,7 +14,7 @@ if (operacao === "+") {
     if (num2 !== 0) {
         resultado = num1 / num2;
     } else {
-        alert("Não é possível dividir por zero!");
+        alert("ta dificil viu, burra!");
     }
 } else {
     alert("Operação inválida!");
