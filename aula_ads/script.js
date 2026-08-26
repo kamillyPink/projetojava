@@ -14,7 +14,7 @@ if (operacao === "+") {
     if (num2 !== 0) {
         resultado = num1 / num2;
     } else {
-        alert("ta dificil viu, burra!");
+        alert("consegui, PULL!");
     }
 } else {
     alert("Operação inválida!");
